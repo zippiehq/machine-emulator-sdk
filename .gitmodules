@@ -3,7 +3,7 @@
 	url = https://github.com/cartesi/machine-emulator.git
 [submodule "rom"]
 	path = rom
-	url = https://github.com/cartesi/machine-emulator-rom.git
+	url = git@github.com:zippiehq/machine-emulator-rom.git
 [submodule "tests"]
 	path = tests
 	url = https://github.com/cartesi/machine-tests.git
@@ -15,4 +15,4 @@
 	url = git@github.com:zippiehq/image-kernel.git
 [submodule "toolchain"]
 	path = toolchain
-	url = https://github.com/cartesi/image-toolchain.git
+	url = git@github.com:zippiehq/image-toolchain.git
