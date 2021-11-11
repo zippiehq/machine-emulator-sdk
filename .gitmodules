@@ -9,10 +9,10 @@
 	url = ../machine-tests.git
 [submodule "fs"]
 	path = fs
-	url = ../image-rootfs.git
+	url = git@github.com:zippiehq/image-rootfs.git
 [submodule "kernel"]
 	path = kernel
-	url = ../image-kernel.git
+	url = git@github.com:zippiehq/image-kernel.git
 [submodule "toolchain"]
 	path = toolchain
 	url = ../image-toolchain.git
